@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This is sample1.txt from master branch
+This is sample1.txt from feature branch
+>>>>>>> feature
